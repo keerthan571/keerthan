@@ -4,3 +4,4 @@ resolving conflict in remote
 fff
 hi
 hello
+welcome
